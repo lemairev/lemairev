@@ -1,0 +1,8 @@
+---
+title: About
+author: Vincent Lemaire
+date: '2018-11-03'
+---
+
+This is a site under construction thanks to the amazing [**blogdown**](https://github.com/rstudio/blogdown) package. 
+

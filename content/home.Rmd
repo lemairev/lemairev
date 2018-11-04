@@ -1,0 +1,13 @@
+---
+title: Home
+author: Vincent Lemaire
+date: '2018-11-03'
+slug: home
+---
+
+Welcome to my personal website!
+
+You can learn more about myself or my work! I'm also writting about some experiences or projects.
+
+Cheers
+vincent

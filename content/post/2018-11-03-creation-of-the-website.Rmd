@@ -1,0 +1,17 @@
+---
+title: Creation of the website
+author: Vincent Lemaire
+date: '2018-11-03'
+slug: creation-of-the-website
+categories: []
+tags: []
+---
+
+## Creation
+After trying github pages, dig into the jekyll documentation and reading a lot on markdown, rmarkdown and blogdown, I choose to build the website using blogdown.
+
+Since I don't have that much content to add for now I was wondering if a simple site using rmarkdown was better suited for me...
+
+More to follow, maybe a clean article and some content ;)
+
+Cheers

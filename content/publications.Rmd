@@ -1,0 +1,10 @@
+---
+title: Publications
+author: Vincent Lemaire
+date: '2018-11-03'
+slug: publications
+categories: []
+tags: []
+---
+
+Here you can find a list of my publications.
