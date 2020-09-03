@@ -1,3 +1,5 @@
 ---
-site: Vincent Lemaire personal website
+title: "lemairev"
+site: distill::distill_website
+listing: posts
 ---
